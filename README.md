@@ -3,11 +3,11 @@
 A simple, aesthetically pleasing web-based music player built with HTML, CSS, and JavaScript. This player allows you to play, pause, and skip tracks, and displays album art, song title, and artist information.
 
 ## How to run
--1.	Open the project folder on your computer.
--2.	Locate the index.html file.
--3.	Double-click on index.html to open it in your default web browser. Alternatively, you can right-click and select “Open with” to choose a specific browser.
--4.	The music player should load in your browser, allowing you to interact with the player controls
--5. node.js to start server
+- Open the project folder on your computer.
+- Locate the index.html file.
+- Double-click on index.html to open it in your default web browser. Alternatively, you can right-click and select “Open with” to choose a specific browser.
+- The music player should load in your browser, allowing you to interact with the player controls
+- node.js to start server
 
 ## ✨ Features
 
